@@ -1,7 +1,6 @@
 package com.kondepati.DMS.Models;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+import javax.persistence.*;
 
 @Entity
 public class Trainer {
